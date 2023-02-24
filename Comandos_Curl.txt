@@ -1,0 +1,1 @@
+Curl -X POST -d '{"nombre":"value","apellido_materno":"nada","apellido_paterno":"nothing","email":"1213@mailcom","password":"qwerty","perfil":"1"}' -H "Content-Type: application/json" http://localhost/SP_2/_api.php
